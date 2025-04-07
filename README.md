@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br><br>I'm a 2019 graduate in computer science, I have worked in the full-stack development field for the past 6 years and am comfortable in JavaScript, TypeScript, React, Next.js, Node.js, Express, SQL, PHP, and Laravel.<br><br>Currently learning tRPC, Prisma, Docker, Containerization, GraphQL, CI/CD, Rust and Solidity through online coursework and personal projects.<br><br>Email: shrinjoysaha41@gmail.com<br>Resume: https://drive.google.com/drive/folders/1UlmZW7HOI-vX8DiRzZ557pxEw7rIhqUv<br><br>Would love to get in touch in case you're hiring if my experience feels fit.<br><br>Thank you for your time.<br><br>Regards,<br>Shrinjoy Saha
+Hi,<br><br>I'm a 2019 graduate in computer science, I have worked in the full-stack development field for the past 6 years and am comfortable in JavaScript, TypeScript, React, Next.js, Node.js, Express, SQL, PHP, and Laravel.<br><br>Currently learning tRPC, Prisma, Docker, Containerization, GraphQL, CI/CD, Rust and Solidity through online coursework and personal projects.<br><br>Email: shrinjoysaha41@gmail.com<br>Resume: https://drive.google.com/drive/folders/1UlmZW7HOI-vX8DiRzZ557pxEw7rIhqUv<br><br>Would love to get in touch in case you're hiring if my experience feels fit.
 
 
 ## 🌐 Socials:
